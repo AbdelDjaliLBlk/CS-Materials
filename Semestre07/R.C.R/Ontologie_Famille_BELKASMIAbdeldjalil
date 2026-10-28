@@ -1,0 +1,158 @@
+Prefix(:=<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2/>)
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
+Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
+Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
+Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
+
+
+Ontology(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2>
+
+Declaration(Class(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Célibataire>))
+Declaration(Class(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Epouse>))
+Declaration(Class(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Femme>))
+Declaration(Class(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#GrandMère>))
+Declaration(Class(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#GrandParent>))
+Declaration(Class(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Homme>))
+Declaration(Class(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Mère>))
+Declaration(Class(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#MèreDeFamilleNombreuse>))
+Declaration(Class(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#MèreSansFille>))
+Declaration(Class(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Parent>))
+Declaration(Class(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>))
+Declaration(Class(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Père>))
+Declaration(ObjectProperty(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aEnfant>))
+Declaration(ObjectProperty(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aParent>))
+Declaration(ObjectProperty(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourConjoint>))
+Declaration(ObjectProperty(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourFille>))
+Declaration(ObjectProperty(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourMère>))
+Declaration(ObjectProperty(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourPère>))
+Declaration(ObjectProperty(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#estMarie>))
+Declaration(NamedIndividual(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Ahmed>))
+Declaration(NamedIndividual(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Ali>))
+Declaration(NamedIndividual(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Fatima>))
+Declaration(NamedIndividual(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Sara>))
+Declaration(NamedIndividual(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Yasmine>))
+############################
+#   Object Properties
+############################
+
+# Object Property: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aEnfant> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aEnfant>)
+
+InverseObjectProperties(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aEnfant> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aParent>)
+ObjectPropertyDomain(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aEnfant> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+ObjectPropertyRange(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aEnfant> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+
+# Object Property: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourConjoint> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourConjoint>)
+
+SymmetricObjectProperty(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourConjoint>)
+ObjectPropertyDomain(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourConjoint> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+ObjectPropertyRange(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourConjoint> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+
+# Object Property: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourFille> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourFille>)
+
+ObjectPropertyDomain(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourFille> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+ObjectPropertyRange(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourFille> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Femme>)
+
+# Object Property: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourMère> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourMère>)
+
+ObjectPropertyDomain(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourMère> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+ObjectPropertyRange(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourMère> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Femme>)
+
+# Object Property: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourPère> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourPère>)
+
+SubObjectPropertyOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourPère> owl:topObjectProperty)
+ObjectPropertyDomain(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourPère> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+ObjectPropertyRange(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourPère> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Homme>)
+
+# Object Property: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#estMarie> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#estMarie>)
+
+FunctionalObjectProperty(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#estMarie>)
+SymmetricObjectProperty(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#estMarie>)
+ObjectPropertyDomain(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#estMarie> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+ObjectPropertyRange(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#estMarie> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+
+
+############################
+#   Classes
+############################
+
+# Class: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Célibataire> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Célibataire>)
+
+EquivalentClasses(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Célibataire> ObjectIntersectionOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourConjoint> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>))))
+SubClassOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Célibataire> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+
+# Class: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Epouse> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Epouse>)
+
+EquivalentClasses(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Epouse> ObjectIntersectionOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Femme> ObjectSomeValuesFrom(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourConjoint> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Homme>)))
+SubClassOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Epouse> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+
+# Class: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Femme> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Femme>)
+
+SubClassOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Femme> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+
+# Class: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#GrandMère> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#GrandMère>)
+
+EquivalentClasses(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#GrandMère> ObjectIntersectionOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#GrandParent> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Mère>))
+SubClassOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#GrandMère> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#GrandParent>)
+
+# Class: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#GrandParent> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#GrandParent>)
+
+EquivalentClasses(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#GrandParent> ObjectIntersectionOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Parent> ObjectSomeValuesFrom(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aEnfant> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Parent>)))
+SubClassOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#GrandParent> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+
+# Class: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Homme> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Homme>)
+
+SubClassOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Homme> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+
+# Class: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Mère> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Mère>)
+
+EquivalentClasses(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Mère> ObjectIntersectionOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person> ObjectSomeValuesFrom(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aEnfant> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)))
+SubClassOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Mère> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Femme>)
+
+# Class: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#MèreDeFamilleNombreuse> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#MèreDeFamilleNombreuse>)
+
+EquivalentClasses(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#MèreDeFamilleNombreuse> ObjectIntersectionOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Mère> ObjectMinCardinality(3 <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aEnfant> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)))
+SubClassOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#MèreDeFamilleNombreuse> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+
+# Class: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#MèreSansFille> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#MèreSansFille>)
+
+EquivalentClasses(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#MèreSansFille> ObjectIntersectionOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Mère> ObjectComplementOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aPourFille> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Femme>))))
+SubClassOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#MèreSansFille> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+
+# Class: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Parent> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Parent>)
+
+EquivalentClasses(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Parent> ObjectUnionOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Mère> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Père>))
+SubClassOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Parent> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)
+
+# Class: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Père> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Père>)
+
+EquivalentClasses(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Père> ObjectIntersectionOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person> ObjectSomeValuesFrom(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#aEnfant> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Person>)))
+SubClassOf(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Père> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Homme>)
+
+
+############################
+#   Named Individuals
+############################
+
+# Individual: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Ahmed> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Ahmed>)
+
+ClassAssertion(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Père> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Ahmed>)
+
+# Individual: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Ali> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Ali>)
+
+ClassAssertion(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Homme> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Ali>)
+
+# Individual: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Fatima> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Fatima>)
+
+ClassAssertion(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Mère> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Fatima>)
+
+# Individual: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Sara> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Sara>)
+
+ClassAssertion(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Femme> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Sara>)
+
+# Individual: <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Yasmine> (<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Yasmine>)
+
+ClassAssertion(<http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Femme> <http://www.semanticweb.org/djalil/ontologies/2026/9/untitled-ontology-2#Yasmine>)
+
+
+)
