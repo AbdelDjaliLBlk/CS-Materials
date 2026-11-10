@@ -1,0 +1,201 @@
+﻿CustomerID,CustomerName,Region,Wilaya
+313,EURL El Mountazah Micro-Informatique,Sud,Ghardaïa
+297,Boutique El Bahia Équipements IT,Centre,Tipaza
+324,SARL El Chourouk Informatique,Est,Batna
+303,Entreprise El Qods Tech Distribution,Centre,Tipaza
+372,EURL El Mountazah Data Services,Est,Constantine
+284,SPA Tassili Accessoires Informatiques,Ouest,Oran
+249,EURL El Moustakbal Réseaux et Systèmes,Est,Sétif
+330,EURL Maghreb Technologies,Est,Annaba
+301,SARL El Kawthar Tech Distribution,Sud,Adrar
+243,SARL Nour Solutions IT,Centre,Blida
+296,Boutique El Andalous Informatique,Sud,Ouargla
+219,EURL Nour Réseaux et Systèmes,Ouest,Oran
+282,SARL Cirta Solutions IT,Sud,Ghardaïa
+233,EURL Tassili Matériel Informatique,Sud,Tamanrasset
+266,SPA El Djurdjura Maintenance Informatique,Ouest,Sidi Bel Abbès
+250,Établissements El Hidhab - Solutions IT,Est,Batna
+340,EURL El Safa Distribution Électronique,Ouest,Tlemcen
+227,SARL El Djurdjura Intégration Systèmes,Est,Sétif
+370,SARL El Djurdjura Équipements IT,Est,Sétif
+228,SARL El Yasmine Bureautique,Centre,Boumerdès
+288,SARL El Baraka Tech Distribution,Centre,Alger
+357,Établissements Ennour - Tech Distribution,Est,Sétif
+398,SPA El Ryad Solutions IT,Est,Batna
+375,EURL El Yasmine Solutions Numériques,Centre,Tipaza
+235,SPA Tassili Digital Services,Sud,Ouargla
+292,SARL El Ryad Micro-Informatique,Ouest,Sidi Bel Abbès
+316,EURL El Razi Tech Distribution,Sud,Adrar
+334,EURL Atlas Distribution Électronique,Centre,Blida
+333,Établissements Nour - Data Services,Sud,Adrar
+251,SPA El Baraka Micro-Informatique,Sud,Adrar
+367,SARL El Baraka Distribution Électronique,Sud,Ouargla
+273,Boutique El Izdihar Bureau et Tech,Centre,Boumerdès
+254,EURL Atlas Équipements IT,Centre,Tipaza
+389,SARL El Bahia Data Services,Sud,Ouargla
+373,SARL El Djazair Solutions Numériques,Est,Constantine
+382,Boutique El Yasmine Tech Distribution,Ouest,Tlemcen
+304,Comptoir El Hidhab Informatique,Est,Constantine
+285,Boutique Aurès Services Informatiques,Ouest,Oran
+319,SARL El Badr Maintenance Informatique,Sud,Adrar
+264,SPA El Fares Bureau et Tech,Centre,Tipaza
+217,SARL El Kheir Réseaux et Systèmes,Ouest,Mostaganem
+214,Boutique El Yasmine Électronique,Est,Sétif
+399,SARL Cirta Accessoires Informatiques,Centre,Boumerdès
+309,EURL El Wissam Intégration Systèmes,Ouest,Tlemcen
+347,Entreprise Maghreb Distribution Électronique,Est,Constantine
+320,EURL Tassili Solutions Numériques,Sud,Ouargla
+239,Établissements El Badr - Tech Distribution,Centre,Alger
+394,SARL El Mokrani Digital Services,Centre,Tipaza
+274,EURL Maghreb Maintenance Informatique,Ouest,Mostaganem
+223,EURL El Kawthar Micro-Informatique,Est,Annaba
+365,EURL El Fajr Informatique,Est,Batna
+226,SARL El Izdihar Solutions IT,Est,Constantine
+212,Comptoir El Ikram Bureautique,Sud,Ouargla
+328,EURL El Kheir Data Services,Centre,Boumerdès
+391,Boutique El Ikram Solutions Numériques,Est,Annaba
+290,EURL El Yasmine Micro-Informatique,Est,Constantine
+268,Entreprise El Mountazah Matériel Informatique,Ouest,Tlemcen
+208,Boutique El Fares Informatique,Sud,Tamanrasset
+293,SARL Hoggar Services Informatiques,Sud,Ghardaïa
+220,Entreprise Tassili Bureautique,Est,Batna
+355,EURL El Fajr Réseaux et Systèmes,Est,Annaba
+255,EURL El Amel Équipements IT,Ouest,Mostaganem
+287,SARL El Ryad Data Services,Centre,Alger
+280,Comptoir El Bahia Réseaux et Systèmes,Ouest,Sidi Bel Abbès
+256,SARL El Ikram Réseaux et Systèmes,Centre,Tipaza
+231,EURL El Chourouk Électronique,Ouest,Oran
+237,Boutique Tassili Électronique,Sud,Tamanrasset
+275,Boutique El Hidhab Réseaux et Systèmes,Ouest,Sidi Bel Abbès
+257,SARL El Moustakbal Matériel Informatique,Ouest,Sidi Bel Abbès
+253,Comptoir Cirta Tech Distribution,Sud,Adrar
+204,SARL El Yasmine Équipements IT,Est,Constantine
+322,SARL Maghreb Connectique,Ouest,Tlemcen
+400,Établissements El Waha - Services Informatiques,Est,Batna
+323,SARL Horizon Informatique,Ouest,Mostaganem
+349,Établissements El Massar - Data Services,Est,Sétif
+353,Boutique Atlas Bureau et Tech,Est,Batna
+321,SARL El Wifak Équipements IT,Est,Annaba
+205,EURL El Mountazah Solutions Numériques,Ouest,Mostaganem
+298,SARL El Ryad Services Informatiques,Centre,Blida
+368,SPA El Fajr Services Informatiques,Ouest,Mostaganem
+245,SARL El Andalous Data Services,Sud,Tamanrasset
+393,EURL El Wissam Data Services,Est,Sétif
+351,Comptoir El Feth Digital Services,Sud,Ghardaïa
+356,SARL Atlas Solutions IT,Centre,Tipaza
+281,Établissements Aurès - Équipements IT,Ouest,Sidi Bel Abbès
+271,SPA El Badr Réseaux et Systèmes,Est,Constantine
+210,Établissements El Fajr - Distribution Électronique,Sud,Adrar
+260,EURL El Manar Réseaux et Systèmes,Centre,Alger
+300,SARL El Safa Solutions Numériques,Est,Batna
+294,Entreprise El Mountazah Électronique,Centre,Alger
+343,EURL Tassili Équipements IT,Ouest,Sidi Bel Abbès
+241,EURL Nour Bureau et Tech,Sud,Ouargla
+317,Boutique El Razi Distribution Électronique,Ouest,Mostaganem
+201,SARL El Massar Matériel Informatique,Centre,Blida
+215,SARL El Izdihar Distribution Électronique,Est,Sétif
+369,SARL El Badr Matériel Informatique,Sud,Tamanrasset
+335,EURL Hoggar Informatique,Est,Sétif
+238,Boutique El Kawthar Data Services,Sud,Adrar
+236,SARL El Baraka Informatique,Ouest,Mostaganem
+385,EURL El Andalous Micro-Informatique,Sud,Ghardaïa
+261,SPA El Waha Électronique,Est,Annaba
+329,Établissements El Massar - Informatique,Ouest,Sidi Bel Abbès
+342,SARL El Bahia Distribution Électronique,Sud,Tamanrasset
+341,EURL Ennour Distribution Électronique,Est,Constantine
+289,Comptoir El Badr Digital Services,Est,Sétif
+203,Établissements El Hidhab - Bureautique,Ouest,Tlemcen
+259,Établissements El Baraka - Solutions Numériques,Ouest,Mostaganem
+308,EURL Cirta Réseaux et Systèmes,Sud,Adrar
+350,Établissements El Wissam - Matériel Informatique,Sud,Tamanrasset
+383,Boutique El Fajr Électronique,Centre,Blida
+366,SARL El Kawthar Matériel Informatique,Ouest,Tlemcen
+277,SARL Aurès Tech Distribution,Centre,Alger
+390,SARL El Mountazah Accessoires Informatiques,Sud,Adrar
+225,Établissements El Waha - Data Services,Centre,Tipaza
+242,SARL El Mokrani Équipements IT,Ouest,Oran
+263,SARL Atlas Informatique,Centre,Boumerdès
+283,Établissements El Waha - Solutions Numériques,Sud,Ghardaïa
+326,SARL El Badr Solutions IT,Ouest,Tlemcen
+344,EURL Atlas Bureautique,Centre,Tipaza
+276,Comptoir El Djurdjura Tech Distribution,Centre,Boumerdès
+397,SPA El Fares Distribution Électronique,Sud,Tamanrasset
+295,SARL El Djazair Électronique,Centre,Alger
+299,SARL El Baraka Équipements IT,Est,Constantine
+310,SARL El Moustakbal Distribution Électronique,Ouest,Oran
+387,SARL El Chourouk Micro-Informatique,Sud,Tamanrasset
+252,Entreprise El Waha Connectique,Est,Annaba
+258,Boutique Atlas Solutions Numériques,Sud,Ghardaïa
+337,Entreprise El Manar Connectique,Centre,Blida
+379,Boutique El Andalous Matériel Informatique,Centre,Alger
+234,SARL El Razi Équipements IT,Ouest,Tlemcen
+229,EURL El Amel Technologies,Sud,Ouargla
+202,SARL Aurès Solutions IT,Ouest,Oran
+338,SARL Atlas Intégration Systèmes,Est,Annaba
+302,SARL Atlas Digital Services,Centre,Tipaza
+230,SARL El Qods Matériel Informatique,Ouest,Oran
+345,SARL El Qods Digital Services,Ouest,Mostaganem
+211,Boutique El Qods Distribution Électronique,Est,Constantine
+240,Établissements El Kawthar - Connectique,Centre,Tipaza
+248,EURL Cirta Électronique,Centre,Alger
+269,SARL El Badr Connectique,Est,Sétif
+332,SARL Nour Micro-Informatique,Centre,Boumerdès
+318,SARL Numidia Intégration Systèmes,Est,Constantine
+224,SARL El Fares Matériel Informatique,Ouest,Sidi Bel Abbès
+359,Établissements Numidia - Accessoires Informatiques,Est,Annaba
+244,SARL El Waha Bureautique,Ouest,Tlemcen
+207,SARL El Baraka Bureau et Tech,Sud,Ghardaïa
+392,Comptoir El Badr Intégration Systèmes,Centre,Alger
+396,Comptoir El Moustakbal Tech Distribution,Centre,Blida
+279,EURL Maghreb Bureautique,Est,Batna
+270,Boutique Horizon Data Services,Ouest,Mostaganem
+247,Établissements El Qods - Solutions IT,Sud,Ghardaïa
+384,EURL El Mokrani Matériel Informatique,Ouest,Oran
+262,Entreprise El Wifak Technologies,Ouest,Oran
+278,Établissements El Fares - Réseaux et Systèmes,Centre,Blida
+361,SPA El Razi Intégration Systèmes,Centre,Alger
+222,SPA El Kheir Accessoires Informatiques,Centre,Blida
+325,SARL El Feth Services Informatiques,Sud,Ghardaïa
+265,Entreprise El Wissam Distribution Électronique,Sud,Ghardaïa
+388,SARL El Amel Électronique,Est,Annaba
+286,SARL Sahara Digital Services,Sud,Ghardaïa
+346,Comptoir El Ryad Digital Services,Ouest,Oran
+364,SARL El Chourouk Distribution Électronique,Ouest,Sidi Bel Abbès
+339,EURL El Wifak Accessoires Informatiques,Centre,Blida
+232,EURL El Bahia Tech Distribution,Sud,Tamanrasset
+267,Comptoir El Fares Technologies,Ouest,Tlemcen
+305,Entreprise El Badr Accessoires Informatiques,Ouest,Mostaganem
+348,Comptoir Horizon Bureau et Tech,Est,Annaba
+360,SARL El Djurdjura Micro-Informatique,Est,Sétif
+358,SARL Horizon Solutions IT,Centre,Boumerdès
+312,SARL El Ryad Équipements IT,Est,Batna
+354,EURL El Amel Bureau et Tech,Ouest,Sidi Bel Abbès
+363,SARL El Safa Services Informatiques,Est,Annaba
+306,EURL El Kawthar Réseaux et Systèmes,Centre,Alger
+395,Établissements Cirta - Distribution Électronique,Centre,Boumerdès
+352,EURL El Izdihar Tech Distribution,Centre,Blida
+378,SARL El Bahia Services Informatiques,Centre,Blida
+206,Entreprise El Mountazah Distribution Électronique,Sud,Tamanrasset
+314,EURL El Djazair Data Services,Sud,Ghardaïa
+272,Établissements El Massar - Micro-Informatique,Est,Constantine
+315,SARL El Manar Solutions IT,Sud,Adrar
+291,Entreprise El Chourouk Data Services,Sud,Ouargla
+381,Établissements Ennour - Maintenance Informatique,Sud,Ouargla
+376,SARL El Safa Tech Distribution,Ouest,Oran
+336,Établissements El Chourouk - Digital Services,Ouest,Tlemcen
+374,EURL El Djazair Solutions IT,Sud,Adrar
+246,EURL Numidia Bureautique,Centre,Boumerdès
+327,EURL El Yasmine Intégration Systèmes,Sud,Tamanrasset
+380,SARL Cirta Matériel Informatique,Centre,Blida
+216,EURL Hoggar Intégration Systèmes,Ouest,Tlemcen
+209,SARL El Fares Équipements IT,Sud,Ouargla
+386,EURL El Mokrani Data Services,Centre,Boumerdès
+331,SARL El Massar Maintenance Informatique,Est,Annaba
+221,EURL El Djurdjura Bureautique,Est,Batna
+377,Établissements El Fares - Maintenance Informatique,Ouest,Oran
+311,SARL Tassili Solutions IT,Est,Batna
+307,EURL El Andalous Réseaux et Systèmes,Ouest,Sidi Bel Abbès
+362,Établissements El Djurdjura - Data Services,Centre,Boumerdès
+218,SARL Ennour Services Informatiques,Sud,Ouargla
+371,SARL Maghreb Data Services,Sud,Ouargla
+213,SARL El Mokrani Réseaux et Systèmes,Centre,Alger

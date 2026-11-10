@@ -1,0 +1,11 @@
+InfoPro Algérie — TP2 Power BI / DAX
+Données entièrement fictives, à vocation pédagogique.
+
+Customers.csv : 200 clients avec des noms commerciaux algériens fictifs, CustomerID, CustomerName, Region, Wilaya.
+Products.csv : 50 produits.
+Sales.csv : 3000 ventes.
+Calendar.csv : dates de 2023 à 2025 (1096 jours).
+
+Relations recommandées : 
+Products[ProductID] (1) → Sales[ProductID] (*); Customers[CustomerID] (1) → Sales[CustomerID] (*); Calendar[DateID] (1) → Sales[DateID] (*).
+Les identifiants et les données des ventes ont été conservés lors du changement des noms des clients.

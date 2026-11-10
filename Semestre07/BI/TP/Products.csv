@@ -1,0 +1,51 @@
+﻿ProductID,ProductName,CategoryID,UnitCost
+101,Ordinateur portable bureautique,Informatique,68850
+102,Ordinateur portable i5,Informatique,97950
+103,Ordinateur portable i7,Informatique,125100
+104,PC de bureau,Informatique,69150
+105,Mini PC,Informatique,51050
+106,Smartphone entrée de gamme,Mobile,17150
+107,Smartphone milieu de gamme,Mobile,39650
+108,Smartphone premium,Mobile,99300
+109,Tablette 10 pouces,Mobile,30400
+110,Tablette professionnelle,Mobile,65350
+111,Écran 22 pouces,Périphériques,17900
+112,Écran 24 pouces,Périphériques,24600
+113,Écran 27 pouces,Périphériques,41950
+114,Clavier USB,Périphériques,1750
+115,Clavier mécanique,Périphériques,9000
+116,Souris USB,Périphériques,850
+117,Souris sans fil,Périphériques,2100
+118,Casque audio,Périphériques,3900
+119,Webcam HD,Périphériques,4900
+120,Imprimante jet encre,Bureautique,23150
+121,Imprimante laser,Bureautique,36550
+122,Scanner A4,Bureautique,24600
+123,Onduleur 650 VA,Énergie,11150
+124,Onduleur 1200 VA,Énergie,21600
+125,Disque SSD 256 Go,Stockage,4500
+126,Disque SSD 512 Go,Stockage,6900
+127,Disque SSD 1 To,Stockage,13700
+128,Disque HDD 1 To,Stockage,7700
+129,Clé USB 64 Go,Stockage,1550
+130,Clé USB 128 Go,Stockage,2700
+131,Carte mémoire 128 Go,Stockage,2250
+132,Routeur Wi-Fi,Réseau,5900
+133,Répéteur Wi-Fi,Réseau,3900
+134,Switch 8 ports,Réseau,5200
+135,Point accès Wi-Fi,Réseau,9400
+136,Câble réseau 5 m,Réseau,750
+137,Adaptateur USB-C,Accessoires,1950
+138,Hub USB 4 ports,Accessoires,2650
+139,Chargeur USB-C,Accessoires,3150
+140,Power bank 10000 mAh,Accessoires,4200
+141,Support ordinateur,Accessoires,2400
+142,Sac ordinateur 15 pouces,Accessoires,3150
+143,Enceintes PC,Périphériques,4800
+144,Microphone USB,Périphériques,5500
+145,Projecteur vidéo,Bureautique,68500
+146,Écran projection,Bureautique,13900
+147,Lecteur code-barres,Bureautique,9800
+148,Étiqueteuse,Bureautique,14700
+149,Caméra IP,Réseau,6750
+150,NAS 2 baies,Stockage,56950

@@ -1,0 +1,90 @@
+% !TEX program = pdflatex
+\documentclass[10.5pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{lmodern}
+\usepackage[margin=1.8cm,top=1.5cm,bottom=1.5cm]{geometry}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage[hidelinks]{hyperref}
+
+% ---------- Couleurs ----------
+\definecolor{accent}{HTML}{2F5D8A}
+\definecolor{lightaccent}{HTML}{D6E4F0}
+\definecolor{textgray}{HTML}{4A4A4A}
+
+\color{textgray}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+% ---------- Titres de sections ----------
+\titleformat{\section}
+  {\large\bfseries\color{accent}\scshape}
+  {}{0pt}{}
+  [\vspace{-5pt}\color{accent}\rule{\linewidth}{0.8pt}]
+\titlespacing*{\section}{0pt}{14pt}{8pt}
+
+% ---------- Listes ----------
+\setlist[itemize]{leftmargin=1.2em,itemsep=3pt,topsep=2pt,label=\textcolor{accent}{\textbullet}}
+
+% ---------- Commande entrée (formation / projet) ----------
+\newcommand{\entry}[3]{%
+  \begin{tabularx}{\linewidth}{@{}X r@{}}
+    \textbf{\color{black}#1} & \textit{\small #3} \\
+    \multicolumn{2}{@{}l}{\small\textit{#2}}
+  \end{tabularx}\vspace{5pt}
+}
+
+\begin{document}
+
+% ================= EN-TÊTE =================
+\begin{center}
+  {\fontsize{26}{30}\selectfont\bfseries\color{accent} BELKASMI Abdeldjalil}\\[5pt]
+  {\large\scshape\color{textgray}Étudiant en informatique}\\[8pt]
+  \small
+  \href{mailto:jalilbelkasmi4@gmail.com}{jalilbelkasmi4@gmail.com}
+  \quad\textcolor{accent}{$\bullet$}\quad
+  06 56 11 28 26
+  \quad\textcolor{accent}{$\bullet$}\quad
+  Meffrouche -- Terni Beni Hdiel, Mansourah
+\end{center}
+
+\vspace{2pt}
+{\color{accent}\rule{\linewidth}{1.6pt}}
+
+% ================= PROFIL =================
+\section{Profil}
+Étudiant en 4\textsuperscript{e} année d'ingénieur en informatique, trilingue et rigoureux, je recherche un \textbf{poste à temps partiel ou le week-end} au sein de votre établissement afin d'offrir un service client d'excellence et de contribuer à l'optimisation de la gestion administrative.
+
+% ================= FORMATION =================
+\section{Formation}
+\entry{Diplôme d'Ingénieur en Informatique (4\textsuperscript{e} année)}{Université Abou Bekr Belkaïd}{2023 -- Présent}
+\entry{Baccalauréat Scientifique -- Mention Bien}{Lycée Terny Beni Hdiel}{Juillet 2023}
+\entry{Enseignement primaire}{École privée -- Alger}{Parcours initial}
+
+% ================= COMPÉTENCES =================
+\section{Compétences}
+\begin{itemize}
+  \item \textbf{Bureautique \& outils :} Microsoft Office (Excel, Word, PowerPoint), navigation web, gestion de courriels.
+  \item \textbf{Relationnel \& vente :} accueil physique et téléphonique, conseil client, sens du service.
+  \item \textbf{Langues :} arabe, français, anglais -- pratique courante à l'oral comme à l'écrit.
+\end{itemize}
+
+% ================= PROJETS =================
+\section{Projets et expériences}
+\entry{Développement d'une application de réservation de vols}{Projet d'équipe}{2025}
+% ================= LANGUES =================
+\section{Langues}
+
+\begin{itemize}
+  \item \textbf{\color{black}Arabe} \hfill \small Langue maternelle \\
+  \item \textbf{\color{black}Anglais} \hfill \small Courant \\
+  \item \textbf{\color{black}Français} \hfill \small Courant \\
+\end{itemize}
+
+\end{document}

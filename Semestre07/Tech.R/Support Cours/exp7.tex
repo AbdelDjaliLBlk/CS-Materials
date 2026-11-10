@@ -1,0 +1,32 @@
+\documentclass[12pt,a4paper,twoside]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\begin{document}
+Voici un paragraphe normal (avec une
+indentation de première ligne nulle pour
+gagner de la place). Cet exemple suffit
+à voir l’alignement des bords gauche et
+droit.
+
+\begin{flushright}
+Voici un paragraphe au fer à droite où
+l’alignement ne se fait plus qu’au
+niveau du bord droit. La syntaxe
+anglaise peut être traduite par
+\emph{aligné~à~droite}.
+\end{flushright}\par % pour changer un peu
+
+\begin{flushleft}
+Un paragraphe au fer à gauche. La syntaxe
+anglaise est évidemment cohérente en
+remplaçant droite~par~gauche.
+\end{flushleft}
+
+\begin{center}
+Paragraphe centré. Seules les lignes
+relativement courtes ont un intérêt sinon,
+on ne voit pas très bien le caractère
+centré de la chose !
+\end{center}
+
+\end{document}
