@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NainGuerrier
+comment1.params=nom\ x\ y\ force
+comment1.target=NainGuerrier(java.lang.String,\ int,\ int,\ int)
+comment2.params=p
+comment2.target=void\ attaque(Personnage)
+comment3.params=
+comment3.target=int\ getForce()
+numComments=4

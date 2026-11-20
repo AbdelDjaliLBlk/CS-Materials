@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=DemineurSwing
+comment1.params=
+comment1.target=DemineurSwing()
+comment2.params=
+comment2.target=void\ initComponents()
+comment3.params=
+comment3.target=void\ placeMines()
+comment4.params=row\ col
+comment4.target=void\ reveal(int,\ int)
+comment5.params=row\ col
+comment5.target=int\ countAdjacentMines(int,\ int)
+comment6.params=
+comment6.target=void\ revealAllMines()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

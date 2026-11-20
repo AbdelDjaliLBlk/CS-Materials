@@ -1,0 +1,3 @@
+Voici les solutions des TP du module POO -2- ...
+Vous trouverez les classes dans le dossier 'src', il suffit de copier le code dans l'Idea que vous utilisez.
+BON COURAGE!

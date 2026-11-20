@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Ex0301
+comment1.params=
+comment1.target=Ex0301()
+comment2.params=e
+comment2.target=void\ handle(javafx.scene.input.MouseEvent)
+comment3.params=event
+comment3.target=void\ handle(javafx.event.ActionEvent)
+comment4.params=event
+comment4.target=void\ handle(javafx.event.ActionEvent)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment6.params=stage
+comment6.target=void\ start(javafx.stage.Stage)
+numComments=7

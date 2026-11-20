@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Gladiateur
+comment0.text=\r\n\ Un\ gladiateur\ dans\ une\ ar\u00C3\u00A8ne.\r\n
+comment1.params=
+comment1.target=Gladiateur()
+comment2.params=
+comment2.target=int\ getForce()
+comment3.params=adversaire
+comment3.target=void\ attaque(Personnage)
+numComments=4

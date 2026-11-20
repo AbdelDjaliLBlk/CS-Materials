@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+  int x=9;
+  int y=7;
+  printf("The sum x+y is: %d+%d=%d\n",x,y,x+y);
+  printf("The difference x-y is: %d-%d=%d\n",x,y,x-y);
+  printf("The product x*y is: %d*%d=%d\n",x,y,x*y);
+  printf("The quotient x/y is: %d/%d=%d\n",x,y,x/y);
+  printf("The module x modulo y is: %d modulo %d = %d\n",x,y,x%y);
+     return 0;
+}

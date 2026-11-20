@@ -1,0 +1,34 @@
+TP3:
+---
+//Ajouter une colonne.
+ ALTER TABLE Nom_Table ADD  attribut type;
+
+//Modifier le Nom d'un attribut.
+ ALTER TABLE Nom_Table RENAME nom TO nouv_nom;
+ 
+//Ajouter une clé primaire à une table et à faire une fois dans une table car elle peut contenir une seule clé primaire.
+ ALTER TABLE Nom_Table add constraint Nom_contrainte PRIMARY KEY Attribut;  
+
+//Ajouter une clé etrangère à une table.
+ ALTER TABLE Nom_Table add constraint Nom_contrainte FOREIGN KEY Attribut REFERENCES Nom_Table AttributRef;  
+
+//Suppression une constrainte à une table.
+ ALTER TABLE Nom_Table DROP constraint Nom_contrainte;
+
+//Voir toutes les contraintes.
+ SELECT constraint_name FROM user_constraints WHERE table_name = 'Nom_Table' AND constraint_type = 'Type';
+
+
+TP4:
+---
+//Ajouter une ligne à la table matiere.(Code , designation , Credit).
+ INSERT INTO matiere VALUES ('A','Algorithmique',6);
+
+//Afficher toutes les lignes d'une table.
+ SELECT * FROM Nom_table;
+
+//Changer les valeurs d'une ligne.
+ UPDATE Nom_Table SET Attri = Value WHERE condition;
+
+//Suppression d'une ligne.
+ DELETE FROM Nom_Table WHERE condition;

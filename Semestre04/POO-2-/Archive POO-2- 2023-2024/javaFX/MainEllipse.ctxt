@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MainEllipse
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=stage\ titre\ hauteur\ largeur
+comment2.target=void\ FenetreVide(javafx.stage.Stage,\ java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=javafx.scene.layout.HBox\ creerLigneBoutton()
+comment4.params=event
+comment4.target=void\ handle(javafx.event.ActionEvent)
+comment5.params=event
+comment5.target=void\ handle(javafx.event.ActionEvent)
+comment6.params=
+comment6.target=javafx.scene.layout.BorderPane\ creerContenu()
+comment7.params=stage
+comment7.target=void\ layout(javafx.stage.Stage)
+comment8.params=stage
+comment8.target=void\ start(javafx.stage.Stage)
+numComments=9

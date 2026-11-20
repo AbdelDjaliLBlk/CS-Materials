@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Guerrier
+comment1.params=p
+comment1.target=void\ attaque(Personnage)
+comment2.params=
+comment2.target=int\ getForce()
+numComments=3

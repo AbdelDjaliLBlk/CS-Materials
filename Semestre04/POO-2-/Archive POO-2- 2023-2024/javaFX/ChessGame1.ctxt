@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ChessGame1
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=
+comment2.target=javafx.scene.layout.GridPane\ createChessBoard()
+comment3.params=board
+comment3.target=void\ addPawns(javafx.scene.layout.GridPane)
+comment4.params=color
+comment4.target=javafx.scene.shape.Circle\ createPawn(javafx.scene.paint.Color)
+comment5.params=color
+comment5.target=javafx.scene.shape.Circle\ createTile(javafx.scene.paint.Color)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

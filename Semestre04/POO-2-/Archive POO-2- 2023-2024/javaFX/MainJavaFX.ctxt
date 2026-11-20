@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MainJavaFX
+comment1.params=
+comment1.target=MainJavaFX()
+comment2.params=event
+comment2.target=void\ handle(javafx.event.ActionEvent)
+comment3.params=
+comment3.target=void\ init()
+comment4.params=primaryStage
+comment4.target=void\ start(javafx.stage.Stage)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

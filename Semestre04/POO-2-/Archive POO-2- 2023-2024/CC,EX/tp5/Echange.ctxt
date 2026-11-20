@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Echange
+comment1.params=val1\ val2
+comment1.target=Echange(java.lang.Object,\ java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ getVal1()
+comment3.params=val1
+comment3.target=void\ setVal1(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ getVal2()
+comment5.params=val2
+comment5.target=void\ setVal2(java.lang.Object)
+comment6.params=e
+comment6.target=void\ permuterValeurs(Echange)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

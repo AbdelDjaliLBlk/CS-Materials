@@ -1,0 +1,89 @@
+BlueJ run started: Mon Apr 22 06:14:00 GMT+01:00 2024
+BlueJ version 5.2.1
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 7 6.1 (amd64)
+Java Home: E:\BlueJ\jdk
+----
+Detected language "french" based on iso639-2 code "fra"
+Internal error: Unable to load frame labels file: E:\bluej\lib\french\frame-labels
+Opening project: E:\Poo2024\POO2Ingnieur2024\POO2Ingnieur2024\javaFX
+1713762921456: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: userhome\bluej\import-cache.xml (Le fichier spécifié est introuvable)
+1713772331116: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1713772775173: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1713772920710: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1713773636792: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1713773951510: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1713774004777: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Opening project: E:\Poo2024\POO2Ingnieur2024\ig\calc
+1713774323413: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: userhome\bluej\import-cache.xml (Le fichier spécifié est introuvable)
+1713775074476: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1713775227104: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1713775463756: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Opening project: E:\Poo2024\POO2Ingnieur2024\ig\enc
+1713777918895: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+java.io.FileNotFoundException while reading import cache: userhome\bluej\import-cache.xml (Le fichier spécifié est introuvable)
+Communication with debug VM fully established.
+An unexpected exception occurred:
+java.lang.IllegalArgumentException: line/column numbers must be > 0
+	at bluej.parser.SourceLocation.<init>(SourceLocation.java:39)
+	at bluej.editor.flow.FlowErrorManager$ErrorDetails.<init>(FlowErrorManager.java:232)
+	at bluej.editor.flow.FlowErrorManager.showErrors(FlowErrorManager.java:111)
+	at bluej.editor.flow.FlowErrorManager.lambda$addErrorHighlight$0(FlowErrorManager.java:105)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+1713801055180: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+An unexpected exception occurred:
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at bluej.terminal.Terminal$TerminalWriter.write(Terminal.java:924)
+	at bluej.debugger.jdi.VMReference$IOHandlerThread.run(VMReference.java:2209)
+1713801406235: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1713801497346: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1713810799200: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1713810806087: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1713852125132: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=
+comment1.target=double\ aire()
+comment2.params=formes
+comment2.target=double\ sommeAires(java.util.List)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

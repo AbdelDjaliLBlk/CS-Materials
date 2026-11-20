@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Maximal
+comment1.params=list\ begin\ end
+comment1.target=java.lang.Object\ max(java.util.List,\ int,\ int)
+numComments=2

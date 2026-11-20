@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Personnage
+comment1.params=n\ x\ y\ v
+comment1.target=Personnage(java.lang.String,\ double,\ double,\ double)
+comment2.params=dx\ dy\ t
+comment2.target=void\ seDeplacer(double,\ double,\ double)
+comment3.params=
+comment3.target=java.lang.String\ parler()
+numComments=4

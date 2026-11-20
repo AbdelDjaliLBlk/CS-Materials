@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <title>Tic-tac-toe</title>
+        <meta charset="utf-8"/>
+        <meta name="author" content="">
+        <meta name="description" content="Jouez au tic-tac-toe !">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <header>
+            <h1 style="text-align: center; font-size: 50px;">Le jeu du tic-tac-toe</h1>
+        </header>
+        <div class="game">
+            <p id='output'></p>
+            <span class="sp" id="1" onclick="game(this)"></span>
+            <span class="sp" id="2" onclick="game(this)"></span>
+            <span class="sp" id="3" onclick="game(this)"></span>
+            <div style="clear: both;"></div>
+            <span class="sp" id="4" onclick="game(this)"></span>
+            <span class="sp" id="5" onclick="game(this)"></span>
+            <span class="sp" id="6" onclick="game(this)"></span>
+            <div style="clear: both;"></div>
+            <span class="sp" id="7" onclick="game(this)"></span>
+            <span class="sp" id="8" onclick="game(this)"></span>
+            <span class="sp" id="9" onclick="game(this)"></span>
+        </div>
+        <footer>
+            <button class="btn" onclick="help()">Aide</button>
+            <button class="btn" onclick="reset()">Recommencer</button>
+        </footer>
+          
+        <script src="script.js"></script>
+        <script>
+            function help() {
+                alert("Bienvenue dans le jeu du tic-tac-toe !\n\nVous allez jouer a deux.\n\nLe premier joueur à aligner 3 symboles gagne la partie.\n\nBonne chance !");
+            }
+        </script>
+    </body>
+</html>

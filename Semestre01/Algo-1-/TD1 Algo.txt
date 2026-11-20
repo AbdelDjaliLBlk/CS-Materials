@@ -1,0 +1,18 @@
+Exo3:
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int A, B, C;
+    printf("Enter 3 number: ");
+    scanf("%d,%d,%d, A,B,C");
+      if(A*A>=B && C>=A*A)      //if B<A*A<C printing CORRECT.
+            printf("CORRECT!");
+      else if(A*A<=B && C<=A*A)
+            printf("ERROR!\n");
+
+    printf("Thank you,goodbye!");
+
+     return 0;
+}

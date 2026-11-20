@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Humain
+comment1.params=nom
+comment1.target=Humain(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ parler()
+numComments=3

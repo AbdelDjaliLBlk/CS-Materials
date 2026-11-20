@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Arene
+comment1.params=nombreGladiateurs
+comment1.target=Arene(int)
+comment2.params=
+comment2.target=int\ nombreGladiateursVivants()
+comment3.params=
+comment3.target=Gladiateur\ getGagnant()
+comment4.params=
+comment4.target=void\ commencer()
+numComments=5

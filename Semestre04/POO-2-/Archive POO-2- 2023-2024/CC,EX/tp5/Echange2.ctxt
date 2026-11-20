@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Echange2
+comment0.text=\ Le\ code\ ne\ compile\ pas\ car\ lors\ de\ l'invocation\ des\ m\u00E9thodes\ setVal1()\ et\ setVal2()\ le\ type\ des\ param\u00E8tres\ pass\u00E9s\ n'est\ pas\ connu\ \u00E0\ cause\ de\ l'utilisation\ du\ wildcard.\r\n\r\n/*La\ solution\ pour\ contourner\ cette\ erreur\ de\ compilation\ est\ de\ d\u00E9finir\ une\ m\u00E9thode\ helper\ dont\ le\ type\ param\u00E9tr\u00E9\ utilise\ \r\n\ \r\n\ une\ variable\ nomm\u00E9e.\ Le\ compilateur\ peut\ alors\ faire\ la\ capture\ et\ on\ peut\ faire\ r\u00E9f\u00E9rence\ au\ type\ param\u00E9tr\u00E9\ dans\ le\ code.\r\n
+comment1.params=val1\ val2
+comment1.target=Echange2(java.lang.Object,\ java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ getVal1()
+comment3.params=val1
+comment3.target=void\ setVal1(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ getVal2()
+comment5.params=val2
+comment5.target=void\ setVal2(java.lang.Object)
+comment6.params=e
+comment6.target=void\ permuterValeursHelper(Echange2)
+comment7.params=e
+comment7.target=void\ permuterValeurs(Echange2)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
