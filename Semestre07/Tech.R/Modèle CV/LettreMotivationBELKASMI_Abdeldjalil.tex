@@ -1,0 +1,101 @@
+
+\documentclass[11pt,a4paper]{letter}
+
+% Configuration des encodages et de la langue
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+
+% Marges du document
+\usepackage[margin=2.5cm]{geometry}
+
+% Informations de l'expéditeur
+\address{
+    BELKASMI Abdeldjalil\\
+    Terny Beni Hdiel , Mansourah, Tlemcen\\
+    Tél : 06 56 11 28 26\\
+    Email : jalilbelkasmi4@gmail.com
+}
+
+% Signature
+\signature{[BELKASMI Abdeldjalil]}
+
+
+
+% Définition de la commande Objet
+\newcommand{\conc}[1]{
+    \noindent\textbf{#1}\par
+}
+
+\begin{document}
+
+% Informations du destinataire
+\begin{letter}{
+    À l'attention du Responsable RH\\{}
+    Entreprise TechSolution\\{}
+    45 Avenue de l'Innovation\\{}
+    16002 Alger
+}
+
+% Date
+\date{\today}
+
+% Objet du courrier
+\conc{Objet : Candidature au poste de développeur Full-Stack (Stage)}
+
+% Formule d'ouverture
+\opening{Madame, Monsieur,}
+
+% ---Corps de la lettre---
+Actuellement étudiant en \textbf{Intelligence Artificielle}
+à \textbf{AbuBakr Belkaid-Tlemcen}, je souhaite vous
+adresser ma candidature afin d'effectuer un stage
+au sein de votre entreprise.
+
+Votre entreprise a particulièrement retenu mon
+attention grâce à son engagement dans le domaine des nouvelles
+technologies et son intérêt pour l'innovation. Je serais ravi(e) de découvrir
+votre environnement professionnel et de contribuer
+à vos activités.
+
+Au cours de ma formation, j'ai acquis des
+connaissances théoriques et pratiques dans
+plusieurs domaines, notamment :
+
+\begin{itemize}
+    \item \textbf{Programmation :}
+    [HTML, CSS, Python, JavaScript, PHP]
+
+    \item \textbf{Développement :}
+    [Développement web,
+    Création d'applications et interfaces utilisateur.]
+
+    \item \textbf{Bases de données :}
+    [SQL, MySQL]
+
+    \item \textbf{Projets réalisés :}
+    [Application de réservation de vols]
+\end{itemize}
+
+Sérieux,motivé et capable de travailler
+en équipe, je suis prêt à mettre mes compétences
+en pratique et à développer de nouvelles connaissances.
+
+Intégrer votre entreprise serait pour moi une
+occasion d'enrichir mon expérience professionnelle.
+Je souhaite également mettre ma motivation,
+mon sérieux et mes compétences au service de
+votre équipe.
+
+Je serais heureux de pouvoir vous rencontrer
+lors d'un entretien afin de vous présenter plus
+en détail mon parcours et mes motivations.
+
+% ---Formule de politesse---
+\closing{
+Je vous prie d'agréer, Madame, Monsieur,
+l'expression de mes salutations distinguées.
+}
+
+\end{letter}
+\end{document}

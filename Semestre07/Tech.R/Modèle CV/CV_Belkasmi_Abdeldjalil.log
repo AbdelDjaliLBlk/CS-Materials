@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.13)  8 NOV 2026 15:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.13)  22 NOV 2026 14:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -513,22 +513,22 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7
 (C:\Users\Djalil\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 80--82
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
@@ -558,7 +558,7 @@ Here is how much of TeX's memory you used:
  40758 multiletter control sequences out of 15000+600000
  688721 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,376b,453s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,396b,453s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Djalil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.p
 fb><C:/Users/Djalil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.
 pfb><C:/Users/Djalil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx7.
@@ -570,7 +570,7 @@ pfb><C:/Users/Djalil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc1
 pfb><C:/Users/Djalil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.
 pfb><C:/Users/Djalil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy9.
 pfb>
-Output written on CV_Belkasmi_Abdeldjalil.pdf (1 page, 237664 bytes).
+Output written on CV_Belkasmi_Abdeldjalil.pdf (1 page, 239005 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
